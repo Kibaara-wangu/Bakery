@@ -1,0 +1,32 @@
+#container{
+    width: 50px;
+    height: 30px;
+    font-size: 30px;
+    
+
+    
+}
+.input{
+    width: 0px;
+    height: 30px;
+}
+
+#image2{
+    width:400px;
+    height:400px;
+    
+}
+#image1{
+    width:300px;
+    height:300px;
+    margin-left: 200px;
+
+}
+#all{
+    background-color:burlywood;
+    margin-top: 0;
+}
+#logo{
+    word-spacing: 30px;
+    text-align: center;
+}
